@@ -8,6 +8,8 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
 </p
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
+<br />
+<br />
 
 **Linguagens**
 
@@ -15,12 +17,11 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=3ABDD8&color=20232A)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=3ABDD8&color=20232A)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter&logoColor=3ABDD8&color=20232A)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true&layout=compact" align="right" />
   <br />
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js&logoColor=3ABDD8&color=20232A)
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true&layout=compact" align="right" />
 
 **Utilidades e DevOps**
 
