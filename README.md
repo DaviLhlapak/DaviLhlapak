@@ -1,7 +1,6 @@
 
 
 <h2>Olá 👋</h2>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true" align="right" />
 <p>
 Me chamo Davi, tenho 19 anos e sou Desenvolvedor Web e Mobile.<br />
 Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
@@ -10,6 +9,7 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
 <br />
 <br />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true" />
 
 **Linguagens**
 
@@ -17,8 +17,6 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5&logoColor=3ABDD8&color=20232A)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=3ABDD8&color=20232A)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=for-the-badge&logo=Flutter&logoColor=3ABDD8&color=20232A)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true&layout=compact" align="right" />
-  <br />
   ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react&logoColor=3ABDD8&color=20232A)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js&logoColor=3ABDD8&color=20232A)
@@ -34,6 +32,8 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=3ABDD8&color=20232A)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=3ABDD8&color=20232A)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=3ABDD8&color=20232A)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true&layout=compact" />
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
