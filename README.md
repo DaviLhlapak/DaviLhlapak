@@ -9,7 +9,6 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true" />
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
-<br />
 
 **Linguagens**
 
