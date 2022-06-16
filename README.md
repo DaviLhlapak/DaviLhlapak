@@ -2,8 +2,7 @@
 
 <h2>Olá 👋</h2>
 <p>
-Me chamo Davi, tenho 19 anos e sou Desenvolvedor Web e Mobile.<br />
-Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
+Me chamo Davi, tenho 20 anos e sou Desenvolvedor Web.
 </p>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true" />
@@ -32,9 +31,3 @@ Gosto de UI/UX, de criar ótimos apps e ajudar outras pessoas a fazer o mesmo.
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=3ABDD8&color=20232A)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviLhlapakRosa&count_private=true&theme=react&show_icons=true&layout=compact" />
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Davi Lhlapak Rosa](https://img.shields.io/badge/-Davi%20Lhlapak%20Rosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavilhlapakrosa%2F&color=3ABDD8)](https://www.linkedin.com/in/davilhlapakrosa/)
-[![Instagram: Davi Lhlapak Rosa](https://img.shields.io/badge/-Davi%20Lhlapak%20Rosa-blue?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fdavilhlapak%2F&color=20232A)](https://www.instagram.com/davilhlapak/)
-[![GitHub DaviLhlapakRosa]( https://img.shields.io/github/followers/DaviLhlapakRosa?label=Seguir&style=social)](https://github.com/DaviLhlapakRosa)
