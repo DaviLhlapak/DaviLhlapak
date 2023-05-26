@@ -2,7 +2,7 @@
 
 <h2>Olá 👋</h2>
 <p>
-Me chamo Davi, tenho 20 anos e sou Desenvolvedor Web.
+Me chamo Davi, tenho 21 anos e sou Desenvolvedor Web.
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
