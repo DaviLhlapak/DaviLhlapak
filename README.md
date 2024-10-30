@@ -2,7 +2,7 @@
 
 <h2>Olá 👋</h2>
 <p>
-Me chamo Davi, tenho 22 anos e sou Desenvolvedor Web. Trabalho atualmente na @LetsDevelopment como Tech Leader e programador Full Stack, com skills avançadas em JavaScript, NextJs e React. Gosto de criar experiências incríveis para os usuários!
+Me chamo Davi, tenho 22 anos e sou Desenvolvedor Web. Trabalho atualmente na @LeanWork como Desenvolvedor Pleno, também atuei na @LetsDevelopment como Tech Leader e programador Full Stack, com skills avançadas em JavaScript, NextJs e React. Gosto de criar experiências incríveis para os usuários!
 </p>
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
